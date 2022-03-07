@@ -1,0 +1,55 @@
+body {
+    background-color: pink;
+    text-align: center;	
+}
+
+.list-group {
+    font-size: 100%;
+    font-family: "Times New Roman";
+}
+
+.list-item{
+    background-color: white;
+    border: -12px;
+    padding: 12px;
+}
+
+header {
+    margin-top: 8%;
+    background-color:white;
+    padding: 12px;
+    border: -12px;
+    font-size: 32px;
+}
+
+.search {
+    padding: 12px;
+    border: -12px;
+    background-color: white;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: palevioletred;
+
+}
+
+.clear{
+    background-color: plum;
+    color: black;
+    border-radius: 4px;
+    width: 107px;
+    padding: 12px; 
+    border: -12px;
+    font-weight: bold;
+}
+.footer{
+    background-color: grey;
+    color: white;
+    padding: 5% 0;
+    height: 100px;
+}
